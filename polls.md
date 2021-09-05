@@ -9,8 +9,12 @@ Rate courses from `1` _(worst)_ to `5` _(best)_.
 - mehdi `5`
 - Aram `5`
 - mohammadnezhad `5`
+- nematirani `5`
+
 ## git course
 
 - Shahin `5`
 - Kaveh `5`
 - mohammadnezhad `5`
+- nematirani `5`
+
